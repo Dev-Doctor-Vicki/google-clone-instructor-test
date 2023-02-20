@@ -1,0 +1,2 @@
+(this["webpackJsonpgoogle-clone-instructor-copy"]=this["webpackJsonpgoogle-clone-instructor-copy"]||[]).push([[0],{11:function(e,n,o){"use strict";o.r(n);o(1);var t=o(3),c=o.n(t),r=(o(8),o(9),o(0));var s=function(){return Object(r.jsx)("div",{className:"app",children:Object(r.jsx)("h1",{children:"Let's build the Google Clone!!"})})},i=document.getElementById("root");c.a.render(Object(r.jsx)(s,{}),i)},8:function(e,n,o){},9:function(e,n,o){}},[[11,1,2]]]);
+//# sourceMappingURL=main.03ba4d65.chunk.js.map
